@@ -8,7 +8,7 @@ class WeatherDio {
   Future<Weather> getHttp( {required String loc}) async {
     var response = await dio
         .get('https://api.weatherapi.com/v1/forecast.json', queryParameters: {
-      'key': '5ee86c4bdf08432198c154130241903',
+      'key': 'your API key Here',
       'q': loc,
       'aqi': 'no',
       'days': 3,
