@@ -3,7 +3,9 @@
 
 This is a simple Flutter weather application that allows users to check the current weather conditions and forecast for the next three days. The app retrieves weather data from the [WeatherAPI](https://www.weatherapi.com/) and displays it in a user-friendly interface.
 
-<img src="Weather_App.gif" width="200" height="400" />
+<div style="text-align:center">
+    <img src="Todo_App.gif" width="200" height="400" />
+</div>
 
 ## Features:
 - Get the current weather conditions and forecast for any location.
